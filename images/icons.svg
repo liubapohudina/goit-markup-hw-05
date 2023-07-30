@@ -1,12 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
-    <symbol id="icon-Frame-3-1" viewBox="0 0 32 32">
-      <path fill="#e5e5e5" d="M0 0h32v32H0V0z" style="fill:var(--color1, #e5e5e5)"/>
-      <path fill="#fff" d="M-1644-4048H276V218.667h-1920V-4048z" style="fill:var(--color2, #fff)"/>
-      <path fill="#2e2f42" d="M-1644-197.333H276v416h-1920v-416z" style="fill:var(--color3, #2e2f42)"/>
-      <path fill="#4d5ae5" d="M-150.667-10.667H58.666a5.333 5.333 0 0 1 5.333 5.333v42.667a5.333 5.333 0 0 1-5.333 5.333h-209.333A5.333 5.333 0 0 1-156 37.333V-5.334a5.333 5.333 0 0 1 5.333-5.333z" style="fill:var(--color4, #4d5ae5)"/>
-      <path fill="#fff" d="m32 2.667-32 15 10.227 3.156L26 8.5 14.002 21.988l.01.003-.012-.003v7.345l5.735-5.576L27 25.999l5-23.333z" style="fill:var(--color2, #fff)"/>
-    </symbol>
+    <svg id="icomoon-ignore" viewBox="0 0 24 24" fill="none">
+  <path d="M24 2L0 13.25L7.66994 15.6172L19.5 6.375L10.5017 16.4913L10.509 16.4936L10.5 16.4913V22L14.8013 17.8183L20.2501 19.5L24 2Z" fill="white"/>
+</svg>
     <symbol id="icon-person-black-18dp-1" viewBox="0 0 32 32">
       <path fill="#4d5ae5" d="M16 16c2.947 0 5.333-2.387 5.333-5.333S18.946 5.334 16 5.334c-2.947 0-5.333 2.387-5.333 5.333S13.054 16 16 16zm0 2.667c-3.56 0-10.667 1.787-10.667 5.333v1.333c0 .733.6 1.333 1.333 1.333h18.667c.733 0 1.333-.6 1.333-1.333V24c0-3.547-7.107-5.333-10.667-5.333z" style="fill:var(--color4, #4d5ae5)"/>
     </symbol>
