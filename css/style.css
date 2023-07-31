@@ -732,7 +732,6 @@ form {
     font-family: var(--primary-font);
     color: var(--background-color-white);
         text-align: center;
-        font-family: Roboto;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
