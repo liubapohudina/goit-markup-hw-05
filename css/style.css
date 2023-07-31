@@ -423,17 +423,13 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     width: 100%;
 }
 .modal-icon-accept {
-    border: 1px solid rgba(46, 47, 66, 0.40);
-    background-color: #FFFFFF;
-    fill: transparent;
-    border-radius: 2px;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.modal-icon-accept:hover {
     background-color: var(--active-text-color);
     border: 1px solid var(--active-text-color);
     fill: #FFFFFF;
+    border-radius: 2px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 /*---------------------------------------SECTION OFFER----------------------------*/
 
 .section-offer  {
